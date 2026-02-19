@@ -1,0 +1,4 @@
+ezdxf==1.4.3
+PyMuPDF==1.26.7
+pillow==12.1.0
+pyinstaller==6.18.0
